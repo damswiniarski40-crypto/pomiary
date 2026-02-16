@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0a0e1a"/>
+  <rect x="16" y="16" width="1168" height="598" rx="24" fill="none" stroke="#3b82f6" stroke-width="2" opacity="0.2"/>
+  <g transform="translate(600,260)">
+    <polyline points="-200,60 -100,-30 0,15 100,-80 200,-40" fill="none" stroke="#3b82f6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="-200" cy="60" r="8" fill="#60a5fa"/>
+    <circle cx="-100" cy="-30" r="8" fill="#60a5fa"/>
+    <circle cx="0" cy="15" r="8" fill="#60a5fa"/>
+    <circle cx="100" cy="-80" r="8" fill="#60a5fa"/>
+    <circle cx="200" cy="-40" r="8" fill="#60a5fa"/>
+  </g>
+  <text x="600" y="460" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="64" fill="#f1f5f9">Pomiary</text>
+  <text x="600" y="510" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="400" font-size="24" fill="#94a3b8">Monitor obwodow ciala</text>
+</svg>

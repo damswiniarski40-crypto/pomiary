@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#0a0e1a"/>
+  <rect x="16" y="16" width="480" height="480" rx="68" fill="none" stroke="#3b82f6" stroke-width="6" opacity="0.3"/>
+  <g transform="translate(256,220)">
+    <polyline points="-130,55 -65,-28 0,14 65,-80 130,-40" fill="none" stroke="#3b82f6" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="-130" cy="55" r="12" fill="#60a5fa"/>
+    <circle cx="-65" cy="-28" r="12" fill="#60a5fa"/>
+    <circle cx="0" cy="14" r="12" fill="#60a5fa"/>
+    <circle cx="65" cy="-80" r="12" fill="#60a5fa"/>
+    <circle cx="130" cy="-40" r="12" fill="#60a5fa"/>
+  </g>
+  <text x="256" y="400" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="72" fill="#f1f5f9">Pomiary</text>
+</svg>
