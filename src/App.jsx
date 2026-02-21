@@ -28,8 +28,7 @@ const MALE_FIELDS = [
   { key: 'waga', label: 'Waga', unit: 'kg' },
   { key: 'klatka', label: 'Klatka piersiowa', unit: 'cm' },
   { key: 'brzuch', label: 'Brzuch', unit: 'cm' },
-  { key: 'biodra', label: 'Biodra', unit: 'cm' },
-  { key: 'posladki', label: 'Pośladki', unit: 'cm' },
+  { key: 'biceps', label: 'Biceps', unit: 'cm' },
   { key: 'udo', label: 'Udo', unit: 'cm' },
   { key: 'lydka', label: 'Łydka', unit: 'cm' },
 ];
